@@ -20,4 +20,4 @@ Tarea 2 de la ayudantia del ramo de computacion paralela y distribuida
 
 ```$ ./programa -m Matrices.txt```
 
-donde Matrices.txt puede ser cualquier archivo txt con otro nombre que este colocado en la carpeta Tarea-2-ayudantia
+
